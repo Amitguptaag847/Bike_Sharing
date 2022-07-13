@@ -8,14 +8,14 @@
 > We cleaning the data and performed basic EDA to understand the data. Laters we build model using RFE and automated approach as manual approach and got significant variables which helps us prectict that target variable.
 
 ## Conclusions
-- Below are the significant variables found after doing the analysis
--- yr
--- temp
--- mnth_jul
--- season_spring
--- season_winter
--- weathersit_bad
--- weathersit_moderate
+> Below are the significant variables found after doing the analysis
+- yr
+- temp
+- mnth_jul
+- season_spring
+- season_winter
+- weathersit_bad
+- weathersit_moderate
 
 
 ## Technologies Used
